@@ -1,0 +1,11 @@
+C:\Users\imac\Downloads\pjControlDeRegistroDeParticipantes\bin\Debug\pjControlDeRegistroDeParticipantes.exe.config
+C:\Users\imac\Downloads\pjControlDeRegistroDeParticipantes\bin\Debug\pjControlDeRegistroDeParticipantes.exe
+C:\Users\imac\Downloads\pjControlDeRegistroDeParticipantes\bin\Debug\pjControlDeRegistroDeParticipantes.pdb
+C:\Users\imac\Downloads\pjControlDeRegistroDeParticipantes\obj\Debug\pjControlDeRegistroDeParticipantes.csproj.AssemblyReference.cache
+C:\Users\imac\Downloads\pjControlDeRegistroDeParticipantes\obj\Debug\pjControlDeRegistroDeParticipantes.csproj.SuggestedBindingRedirects.cache
+C:\Users\imac\Downloads\pjControlDeRegistroDeParticipantes\obj\Debug\pjControlDeRegistroDeParticipantes.frmParticipantes.resources
+C:\Users\imac\Downloads\pjControlDeRegistroDeParticipantes\obj\Debug\pjControlDeRegistroDeParticipantes.Properties.Resources.resources
+C:\Users\imac\Downloads\pjControlDeRegistroDeParticipantes\obj\Debug\pjControlDeRegistroDeParticipantes.csproj.GenerateResource.cache
+C:\Users\imac\Downloads\pjControlDeRegistroDeParticipantes\obj\Debug\pjControlDeRegistroDeParticipantes.csproj.CoreCompileInputs.cache
+C:\Users\imac\Downloads\pjControlDeRegistroDeParticipantes\obj\Debug\pjControlDeRegistroDeParticipantes.exe
+C:\Users\imac\Downloads\pjControlDeRegistroDeParticipantes\obj\Debug\pjControlDeRegistroDeParticipantes.pdb
